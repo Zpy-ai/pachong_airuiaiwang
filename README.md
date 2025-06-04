@@ -10,7 +10,7 @@
 ## 三、环境要求
 1.本项目基于 Python 开发，运行前需确保已安装 Python 环境，项目依赖的 Python 库在requirement.txt中列出。
 
-2.运行本项目需要安装对应版本的Edge驱动，详细参考blog：
+2.运行本项目需要安装对应版本的Edge驱动，详细参考blog：https://blog.csdn.net/2401_85252837/article/details/148436883?spm=1001.2014.3001.5501
 
 ## 四、使用指南
 ### 4.1 准备工作
